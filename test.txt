@@ -11,3 +11,5 @@ masterはマスターで進んでいく想定。
 リモートのブランチ（develop_katoh）にpushされる想定。
 
 developで編集し、masterにマージした後、更にdevelopで開発を続けるとどうなるのか。
+developで更に編集を進める。
+developで更に更に編集を進める。
